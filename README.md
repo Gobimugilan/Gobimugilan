@@ -7,7 +7,7 @@ Cyber Security Student • Python Developer • AI & Machine Learning Enthusiast
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&center=true&vCenter=true&width=750&lines=Cyber+Security+Student;Aspiring+SOC+Analyst;Python+Developer;Machine+Learning+Enthusiast;Cloud+Security+Learner"
-    alt="Typing animation"
+    alt="Typing Animation"
   />
 </p>
 
@@ -39,13 +39,13 @@ Cyber Security Student • Python Developer • AI & Machine Learning Enthusiast
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css" alt="Programming languages"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css" alt="Programming Languages"/>
 </p>
 
 ### AI, Machine Learning and Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,fastapi" alt="Frameworks"/>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi" alt="Backend Frameworks"/>
 </p>
 
 - Scikit-learn
@@ -53,18 +53,18 @@ Cyber Security Student • Python Developer • AI & Machine Learning Enthusiast
 - Pandas
 - NumPy
 - Matplotlib
-- REST API development
+- REST API Development
 
 ### Cloud and Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,sqlite" alt="Cloud and databases"/>
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,sqlite" alt="Cloud and Databases"/>
 </p>
 
 ### Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Developer tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash" alt="Developer Tools"/>
 </p>
 
 ### Cyber Security Tools
@@ -108,31 +108,10 @@ An intelligent assistant designed to summarise security alerts and support SOC i
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Gobimugilan&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Gobimugilan&theme=tokyo-night&hide_border=true"
     width="100%"
-    alt="Gobinathan Mugilan's GitHub contribution graph"
+    alt="GitHub Activity Graph"
   />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Gobimugilan/Gobimugilan/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Gobimugilan/Gobimugilan/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Gobimugilan/Gobimugilan/output/github-contribution-grid-snake.svg"
-      alt="GitHub contribution snake animation"
-    />
-  </picture>
 </p>
 
 ---
@@ -142,7 +121,7 @@ An intelligent assistant designed to summarise security alerts and support SOC i
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=Gobimugilan&label=Profile%20Views&color=0e75b6&style=for-the-badge"
-    alt="Profile views"
+    alt="Profile Views"
   />
 </p>
 
@@ -164,65 +143,4 @@ An intelligent assistant designed to summarise security alerts and support SOC i
 
 <p align="center">
   <b>Keep Learning • Keep Building • Keep Securing</b> 🚀
-</p><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gobimugilan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gobimugilan&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Gobimugilan&theme=algolia&margin-w=10&margin-h=10"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gobimugilan&theme=github-dark"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Gobimugilan/Gobimugilan/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Gobimugilan&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-# 📫 Contact
-
-📧 **LinkedIn:** https://www.linkedin.com/in/gobinathanmugilan
-
-💻 **GitHub:** https://github.com/Gobimugilan
-
----
-
-# ⚡ Fun Fact
-
-> 💡 *"Cyber Security isn't just about defending systems—it's about staying one step ahead of evolving threats."*
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile! ⭐
-
-*"Keep Learning • Keep Building • Keep Securing"* 🚀
-
-</div>
