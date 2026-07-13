@@ -7,23 +7,36 @@
                                                           ##   ##  ##    ## ##   ##  ##  
                                                            #####    ######  ######  #### 
 
-                                          cyber security student :: python developer :: AI security builder
+                                          ACCESS GRANTED :: CYBER SECURITY PROFILE
 ```
 
 </div>
 
-## `> About Me`
+## `> access_card`
 
 ```text
-[+] B.E. Computer Science and Engineering student specialising in Cyber Security
-[+] Studying at Karpagam Academy of Higher Education, Coimbatore
-[+] Interested in SOC operations, ethical hacking, penetration testing, cloud security, and threat detection
-[+] Building AI and machine-learning applications using Python
-[+] Currently learning Splunk, Microsoft Sentinel, AWS Security, and threat hunting
-[+] Aspiring to become a Cyber Security Engineer specialising in AI-driven security
++--[ identity ]---------------------------------------------+
+| Name       : Gobinathan Mugilan                           |
+| Role       : Cyber Security Student                       |
+| Education  : B.E. CSE - Cyber Security                    |
+| Institute  : Karpagam Academy of Higher Education         |
+| Location   : Coimbatore, India                            |
+| Focus      : SOC | Ethical Hacking | AI Security          |
+| Status     : Learning, building, and securing             |
++-----------------------------------------------------------+
 ```
 
-## `> Technical Skills`
+## `> mission_board`
+
+```text
+[ACTIVE]   Build AI and machine-learning security tools with Python
+[ACTIVE]   Learn Splunk, Microsoft Sentinel, AWS Security, and threat hunting
+[ACTIVE]   Practice SOC operations, log analysis, and incident investigation
+[ACTIVE]   Explore ethical hacking, penetration testing, and web security
+[TARGET]   Become a Cyber Security Engineer specialising in AI-driven security
+```
+
+## `> logo_skills`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,linux,bash,aws,mysql,sqlite,flask,fastapi" alt="Programming, cloud, and developer tool logos" />
