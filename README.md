@@ -25,7 +25,7 @@
 [TARGET]   Become a Cyber Security Engineer specialising in AI-driven security
 ```
 
-## `> logo_skills`
+## `> skills`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,linux,bash,aws,mysql,sqlite,flask,fastapi" alt="Programming, cloud, and developer tool logos" />
