@@ -1,6 +1,10 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/hacker-theme-hero.png" alt="Hacker themed cyber security profile banner" width="100%" />
+</p>
+
 ## `> access_card`
 
 ```text
