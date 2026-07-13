@@ -1,0 +1,98 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="1280" viewBox="0 0 720 1280" role="img" aria-labelledby="title desc">
+  <title id="title">Full body neon cyber hoodie character</title>
+  <desc id="desc">Pure SVG full-body hooded cyber character inspired by the provided image, recolored with violet, cyan, and emerald glow.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#7c3aed"/>
+      <stop offset="48%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#10b981"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" from="0 .5 .5" to="360 .5 .5" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="fabric" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#163b30"/>
+      <stop offset="45%" stop-color="#10251f"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="50%" cy="40%" r="58%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity=".2"/>
+      <stop offset="42%" stop-color="#10b981" stop-opacity=".12"/>
+      <stop offset="100%" stop-color="#030712" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 .08 0 0 0 0 .82 0 0 0 0 .75 0 0 0 .85 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="blueGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 .13 0 0 0 0 .78 0 0 0 0 1 0 0 0 .78 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency=".8" numOctaves="2" seed="41"/>
+      <feColorMatrix type="saturate" values="0"/>
+      <feComponentTransfer><feFuncA type="table" tableValues="0 .035"/></feComponentTransfer>
+    </filter>
+    <pattern id="cloth" width="7" height="7" patternUnits="userSpaceOnUse" patternTransform="rotate(24)">
+      <path d="M0 0H7" stroke="#ffffff" stroke-opacity=".045"/>
+      <path d="M0 3.5H7" stroke="#22d3ee" stroke-opacity=".035"/>
+    </pattern>
+  </defs>
+
+  <rect width="720" height="1280" fill="#030712"/>
+  <rect width="720" height="1280" fill="url(#bgGlow)"/>
+  <rect width="720" height="1280" filter="url(#noise)" opacity=".9"/>
+  <ellipse cx="360" cy="1200" rx="230" ry="38" fill="#020617" opacity=".75"/>
+
+  <g transform="translate(20 10)">
+    <animateTransform attributeName="transform" type="translate" values="20 10;20 0;20 10" dur="6s" repeatCount="indefinite"/>
+
+    <path d="M226 220 C238 74 450 74 468 220 C480 318 438 382 398 418 L294 418 C252 378 214 316 226 220Z" fill="url(#fabric)" stroke="url(#accent)" stroke-width="7" filter="url(#blueGlow)"/>
+    <path d="M260 226 C282 134 415 128 437 226 C452 296 408 343 374 363 C338 384 294 354 275 319 C260 292 252 260 260 226Z" fill="#020617"/>
+    <path d="M248 218 C270 116 426 108 448 218" fill="none" stroke="#22d3ee" stroke-width="4" stroke-opacity=".8" filter="url(#blueGlow)"/>
+    <path d="M350 96 V164" stroke="#10b981" stroke-width="5" filter="url(#glow)"/>
+
+    <path d="M296 264 C324 278 343 276 358 260 C328 254 310 249 296 236 C294 246 293 256 296 264Z" fill="#10b981" filter="url(#glow)">
+      <animate attributeName="opacity" values=".78;1;.78" dur="1.8s" repeatCount="indefinite"/>
+    </path>
+    <path d="M414 264 C386 278 367 276 352 260 C382 254 400 249 414 236 C416 246 417 256 414 264Z" fill="#22d3ee" filter="url(#blueGlow)">
+      <animate attributeName="opacity" values="1;.72;1" dur="2s" repeatCount="indefinite"/>
+    </path>
+
+    <path d="M138 410 C182 338 252 324 300 328 H414 C478 328 545 356 582 414 L520 660 H178Z" fill="url(#fabric)" stroke="url(#accent)" stroke-width="6" filter="url(#glow)"/>
+    <rect x="178" y="446" width="342" height="210" rx="30" fill="#0f172a" opacity=".42"/>
+    <rect x="178" y="446" width="342" height="210" rx="30" fill="url(#cloth)"/>
+    <path d="M350 366 V712" stroke="#22d3ee" stroke-width="5" filter="url(#blueGlow)"/>
+    <path d="M336 366 C346 392 358 392 368 366" fill="none" stroke="#f8fafc" stroke-opacity=".7" stroke-width="7"/>
+    <g stroke="#cbd5e1" stroke-width="3" opacity=".9">
+      <path d="M356 414 h22 M356 438 h22 M356 462 h22 M356 486 h22 M356 510 h22 M356 534 h22 M356 558 h22 M356 582 h22 M356 606 h22 M356 630 h22"/>
+    </g>
+
+    <path d="M150 416 C76 528 82 640 164 690 C218 648 230 552 218 484" fill="url(#fabric)" stroke="#10b981" stroke-width="6" filter="url(#glow)"/>
+    <path d="M568 416 C640 528 636 640 554 690 C502 650 488 552 500 484" fill="url(#fabric)" stroke="#22d3ee" stroke-width="6" filter="url(#blueGlow)"/>
+    <path d="M178 544 H350 M178 660 H520 M350 544 H520" stroke="url(#accent)" stroke-width="5" filter="url(#glow)"/>
+    <path d="M202 498 C248 486 300 488 350 498 V666 H184 C166 610 172 542 202 498Z" fill="#020617" opacity=".25" stroke="#22d3ee" stroke-width="4"/>
+    <path d="M498 498 C452 486 400 488 350 498 V666 H522 C540 610 528 542 498 498Z" fill="#020617" opacity=".25" stroke="#10b981" stroke-width="4"/>
+
+    <rect x="448" y="408" width="86" height="86" rx="14" fill="#0f172a" stroke="#10b981" stroke-width="5" filter="url(#glow)"/>
+    <path d="M491 430 a17 17 0 0 1 17 17 c0 10-8 17-17 17s-17-7-17-17a17 17 0 0 1 17-17Z" fill="#10b981"/>
+    <path d="M472 479 L510 461 M472 461 L510 479" stroke="#10b981" stroke-width="7" stroke-linecap="round"/>
+
+    <path d="M216 660 C240 756 236 908 214 1060 H318 C334 888 350 770 350 660Z" fill="url(#fabric)" stroke="#22d3ee" stroke-width="6" filter="url(#blueGlow)"/>
+    <path d="M388 660 C392 770 418 888 442 1060 H548 C516 908 514 756 486 660Z" fill="url(#fabric)" stroke="#10b981" stroke-width="6" filter="url(#glow)"/>
+    <path d="M262 710 C286 760 302 808 312 856 M454 710 C428 764 414 812 406 858" stroke="#020617" stroke-width="9" stroke-opacity=".55"/>
+    <path d="M230 980 C260 992 292 992 322 978 M432 980 C462 992 500 992 532 978" stroke="#020617" stroke-width="8" stroke-opacity=".55"/>
+
+    <path d="M214 1050 C140 1058 106 1094 96 1130 H330 C330 1088 286 1058 214 1050Z" fill="#123c2f" stroke="#10b981" stroke-width="6" filter="url(#glow)"/>
+    <path d="M442 1050 C516 1058 572 1090 584 1130 H358 C360 1088 386 1058 442 1050Z" fill="#123c2f" stroke="#22d3ee" stroke-width="6" filter="url(#blueGlow)"/>
+    <path d="M118 1108 C164 1092 226 1090 310 1100 M380 1100 C448 1088 522 1092 566 1110" stroke="#f8fafc" stroke-opacity=".38" stroke-width="4"/>
+    <path d="M142 1082 h76 M410 1082 h76" stroke="#10b981" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <rect x="0" y="160" width="720" height="58" fill="#22d3ee" opacity=".035">
+    <animate attributeName="y" values="120;1060;120" dur="5.4s" repeatCount="indefinite"/>
+  </rect>
+  <circle cx="104" cy="186" r="3" fill="#22d3ee"><animate attributeName="opacity" values=".2;1;.2" dur="2.6s" repeatCount="indefinite"/></circle>
+  <circle cx="604" cy="1030" r="4" fill="#7c3aed"><animate attributeName="opacity" values="1;.22;1" dur="3.1s" repeatCount="indefinite"/></circle>
+  <circle cx="628" cy="226" r="3" fill="#10b981"><animate attributeName="opacity" values=".25;1;.25" dur="2.9s" repeatCount="indefinite"/></circle>
+</svg>
