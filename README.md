@@ -1,21 +1,48 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile-hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/profile-hero-light.svg">
-  <img alt="Gobinathan Mugilan - Cyber Security Student, Python Developer, AI/ML Security Builder" src="assets/profile-hero-light.svg" width="100%">
-</picture>
+<div align="center">
 
-<img alt="Animated About Me, Technical Skills, and Featured Projects" src="assets/profile-details-animated.svg" width="100%">
+```text
+        ######   ######  ######  #### ##    ##
+       ##       ##    ## ##   ##  ##  ###   ##
+       ##  ###  ##    ## ######   ##  ## ## ##
+       ##   ##  ##    ## ##   ##  ##  ##  ####
+        #####    ######  ######  #### ##    ##
 
-## GitHub Activity
+       cyber security student :: python developer :: AI security builder
+```
 
-![Gobinathan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gobimugilan&theme=react-dark&hide_border=true)
+</div>
 
-## Connect With Me
+## `> About Me`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gobimugilan-181717?style=for-the-badge&logo=github)](https://github.com/Gobimugilan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gobinathan%20Mugilan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gobinathan-mugilan-049b85290)
-[![Instagram](https://img.shields.io/badge/Instagram-_gobinathan_-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/_gobinathan_)
+```text
+[+] B.E. Computer Science and Engineering student specialising in Cyber Security
+[+] Studying at Karpagam Academy of Higher Education, Coimbatore
+[+] Interested in SOC operations, ethical hacking, penetration testing, cloud security, and threat detection
+[+] Building AI and machine-learning applications using Python
+[+] Currently learning Splunk, Microsoft Sentinel, AWS Security, and threat hunting
+[+] Aspiring to become a Cyber Security Engineer specialising in AI-driven security
+```
 
----
+## `> Technical Skills`
 
-Keep Learning - Keep Building - Keep Securing
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,html,git,github,vscode,linux,bash,aws,mysql,sqlite,flask,fastapi" alt="Programming, cloud, and developer tool logos" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YARA-111827?style=for-the-badge&logo=virustotal&logoColor=22D3EE" alt="YARA" />
+  <img src="https://img.shields.io/badge/Wireshark-111827?style=for-the-badge&logo=wireshark&logoColor=22D3EE" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-111827?style=for-the-badge&logo=burpsuite&logoColor=FF6633" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Nmap-111827?style=for-the-badge&logo=kalilinux&logoColor=10B981" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Metasploit-111827?style=for-the-badge&logo=metasploit&logoColor=7C3AED" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Splunk-111827?style=for-the-badge&logo=splunk&logoColor=10B981" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Microsoft%20Sentinel-111827?style=for-the-badge&logo=microsoftazure&logoColor=22D3EE" alt="Microsoft Sentinel" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-111827?style=for-the-badge&logo=python&logoColor=10B981" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=22D3EE" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=7C3AED" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-111827?style=for-the-badge&logo=python&logoColor=22D3EE" alt="Matplotlib" />
+</p>
